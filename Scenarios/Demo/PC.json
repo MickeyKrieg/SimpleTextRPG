@@ -1,0 +1,21 @@
+{
+	"Type": "Гуманоид",
+	"Name":"",
+	"Gender":"",
+	"Strength":5, 
+	"Agility":5, 
+	"Intelligence":5, 
+	"Willpower":5,
+	"Stamina":5,
+	"Charisma":5,
+	"Carma":5,
+	"HP":5, 
+	"MP":5, 
+	"AP":5,
+	"Class":"Выбрать класс",
+	"canhavepets":true,
+	"Pets":[], 
+	"inv":[], 
+	"Equiped":[],
+	"Desc":""
+}

@@ -1,0 +1,20 @@
+{
+	"Type": "",
+	"Name": "",
+	"Strength":, 
+	"Agility":, 
+	"Intelligence":, 
+	"Willpower":,
+	"Stamina":,
+	"Charisma":,
+	"Carma":,
+	"HP":, 
+	"MP":, 
+	"AP":,
+	"Class":"",
+	"Pets":[], 
+	"inv":[], 
+	"Equiped":[],
+	"Fractions":[],
+	"Description":""
+}
